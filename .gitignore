@@ -1,0 +1,27 @@
+# Ignore all files in the root except specific ones
+/*
+!.gitignore
+!README.md
+!LICENSE
+
+# Maven build directories
+/target/
+
+# IDE-specific files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Compiled Java classes
+*.class
+
+# Logs
+*.log
+
+# Spring Boot specific files
+mvnw
+mvnw.cmd
+
+# Ignore application properties for different environments
+/src/main/resources/application*.properties
