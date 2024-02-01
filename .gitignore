@@ -3,6 +3,9 @@
 !.gitignore
 !README.md
 !LICENSE
+!src
+!pom.xml
+!img
 
 # Maven build directories
 /target/
