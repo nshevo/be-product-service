@@ -7,7 +7,5 @@ It follows the principles of Hexagonal and Onion Architecture.
 ##Tests
 
 Unit tests are written for Domain Services.
-
 Integration tests are written for ApplicationService/s.
-
 Integration tests are written for role based RestControllers.
