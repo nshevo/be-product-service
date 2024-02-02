@@ -1,6 +1,4 @@
 # Product & Category Management Microservice
-## Table of Contents
-
 
 ## Description
 This project demonstrates a Java Spring Boot microservice designed to manage products and categories (core models). 
