@@ -6,6 +6,10 @@
 !src
 !pom.xml
 !img
+!Dockerfile
+!docker-compose.yml
+!mvnw
+!mvnw.cmd
 
 # Maven build directories
 /target/
@@ -21,10 +25,6 @@
 
 # Logs
 *.log
-
-# Spring Boot specific files
-mvnw
-mvnw.cmd
 
 # Ignore application properties for different environments
 /src/main/resources/application*.properties
